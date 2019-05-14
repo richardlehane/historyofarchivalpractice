@@ -2,11 +2,11 @@ We are all familiar with the paper deluge of the late 20C, but did you know that
 
 # Summary of Argument
 
-As its title indicates, this is *A History of Archival Practice*, rather than a history of archives, and it explores the different ways that archival functions have been performed through history and around the world. Delsalle's motivation for writing the book was to address what he saw as an 'identity crisis of the archival profession' (p. x). Some archivists he argued, see themselves as keepers of extant, static collections; others work actively with creating officers to negotiate transfers and then managed those records in custody; while yet others make a distinction between archives and records management (p. xi). Delsalle hoped to settle this argument by delving into the roots of the profession. As Procter puts it in her introduction, the work '[takes] the long view of the value of the archival role' (p. xv).
+As its title indicates, this is *A History of Archival Practice*, rather than a history of archives, and it explores the different ways that archival functions have been performed through history and around the world. Delsalle's motivation for writing the book was to address what he saw as an 'identity crisis of the archival profession' (p. x). Some archivists he argued, see themselves as keepers of extant, static collections; others work actively with creating officers to negotiate transfers and then manage those records in custody; while yet others make a distinction between archives and records management (p. xi). Delsalle hoped to settle this argument by delving into the roots of the profession. As Procter puts it in her introduction, the work '[takes] the long view of the value of the archival role' (p. xv).
 
 # Summary of Contents
 
-It is a long view indeed. The work begins in the ancient world, moving quickly from cave art to clay tablets. The second chapter explores archival practices in the classical world, from the Greek city states to the Roman Empire. The next two chapters are scoped geographically: Asia and Africa; followed by the Americas.
+It is a long view, indeed. The work begins in the ancient world, moving swiftly from cave art to clay tablets. The second chapter explores archival practices in the classical world, from the Greek city states to the Roman Empire. The next two chapters are scoped geographically: Asia and Africa; followed by the Americas. The following six chapters cover developments in Europe from the fifth to eighteenth centuries. These chapters intersperse chronological studies with treatments of particular themes, such as buildings and equipment, methods of arrangement, and archives professionals. 
 
 The gift.
 
