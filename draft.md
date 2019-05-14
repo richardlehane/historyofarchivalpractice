@@ -1,6 +1,8 @@
 We are all familiar with the paper deluge of the late 20C, but did you know that in the 18C there was a similar spike in the creation of paper records and that it was caused by the mass uptake of underwear? This gem (p. 75), and many others like it, can be discovered in *A History of Archival Practice*, Margaret Procter's revised and translated version of Paul Delsalle's 1998 classic, *Une histoire de l’archivistique*.
 
-As its title indicates, this is *A History of Archival Practice*, rather than a history of archives, and it explores the different ways that archival functions have been performed through history and around the world. Delsalle's motivation for writing the book was to address what he saw as an 'identity crisis of the archival profession' (p. x). Some archivists he argued, saw themselves as keepers of extant, static collections; others worked actively with creating officers to negotiate transfers and then managed those records in custody; while yet others made a distinction between archives and records management (p. xi). Delsalle hoped to settle this argument by delving into the roots of the profession. As Procter puts it in her introduction, the work '[takes] the long view of the value of the archival role' (p. xv).
+As its title indicates, this is *A History of Archival Practice*, rather than a history of archives, and it explores the different ways that archival functions have been performed through history and around the world. Delsalle's motivation for writing the book was to address what he saw as an 'identity crisis of the archival profession' (p. x). Some archivists he argued, see themselves as keepers of extant, static collections; others work actively with creating officers to negotiate transfers and then managed those records in custody; while yet others make a distinction between archives and records management (p. xi). Delsalle hoped to settle this argument by delving into the roots of the profession. As Procter puts it in her introduction, the work '[takes] the long view of the value of the archival role' (p. xv).
+
+It is a long view indeed. The work begins in the ancient world and moves quickly from cave art to clay tablets.
 
 The gift.
 
@@ -62,7 +64,6 @@ Flawless translation
 Bibliography - French language works replaced where possible with English language equivalents. Includes some recent research since 1998 publication. More examples of historical English practice - but French experience still dominates (a good corrective for anglophone privilege)
 
 # Summary of Argument
-# About the Authors: Paul Delsalle, Margaret Procter
 # Summary of Contents
 # Strengths
 # Weaknesses
