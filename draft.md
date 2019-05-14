@@ -1,8 +1,12 @@
 We are all familiar with the paper deluge of the late 20C, but did you know that in the 18C there was a similar spike in the creation of paper records and that it was caused by the mass uptake of underwear? This gem (p. 75), and many others like it, can be discovered in *A History of Archival Practice*, Margaret Procter's revised and translated version of Paul Delsalle's 1998 classic, *Une histoire de l’archivistique*.
 
+# Summary of Argument
+
 As its title indicates, this is *A History of Archival Practice*, rather than a history of archives, and it explores the different ways that archival functions have been performed through history and around the world. Delsalle's motivation for writing the book was to address what he saw as an 'identity crisis of the archival profession' (p. x). Some archivists he argued, see themselves as keepers of extant, static collections; others work actively with creating officers to negotiate transfers and then managed those records in custody; while yet others make a distinction between archives and records management (p. xi). Delsalle hoped to settle this argument by delving into the roots of the profession. As Procter puts it in her introduction, the work '[takes] the long view of the value of the archival role' (p. xv).
 
-It is a long view indeed. The work begins in the ancient world and moves quickly from cave art to clay tablets.
+# Summary of Contents
+
+It is a long view indeed. The work begins in the ancient world, moving quickly from cave art to clay tablets. The second chapter explores archival practices in the classical world, from the Greek city states to the Roman Empire. The next two chapters are scoped geographically: Asia and Africa; followed by the Americas.
 
 The gift.
 
@@ -12,7 +16,7 @@ Proctor: "no chronological overview of archival practice over millenia"; "a fram
 'existing periodicisations of archival practice now show themselves to be far too Eurocentric'. Admits work has a lot of gaps (p. 231)
 Hopes for more sophisticated studies to follow, to become outdated (p. 232)
 Tries to get out of Europe - Asia, Africa and the Americas included.
-The first two chapters cover the Ancient and Classical worlds. The next two chapters are scoped geographically: Asia and Africa; followed by the Americas. The next 6 chapter
+The first two chapters cover the Ancient and Classical worlds.  The next 6 chapter
 Begins in the Ancient World. Moves very quickly from cave art to earliest written records (clay tablets)
 5000 clay tablets in king's palace at Ebla 3000 BCE found in original order. Relate to commerce and a small numer of decrees.
 Then classical world: Greece and Rome.
@@ -34,10 +38,14 @@ Then classical world: Greece and Rome.
 15. From Mutual Assistance to International Networks, Nineteenth and Twentieth Centuries
 16. Conclusion: the Value of the Historical Perspective
 
+# Strengths
+
 Resonances with current recordkeeping issues. The very early use of seals in order to guarantee authenticity (p. 3).
 Greek archeion - State repository used for deposit of private records and this validated those transactions (p. 19).
 Same problems, different era. Republican Rome - complaints of officials keeping records privately and not making public records. Fragile media and forgery (p. 21)
 Chests with multiple locks to regulate access. Such as the 7 lock chest made in 1569 at Beaune in Burgundy (p. 93)
+
+# Weaknesses
 
 No evidence of an archival culture in Egypt - because don't keep records for long term reference (p. 8).
 Romans didn't store records to support future use (p. 21) - this seems to be the benchmark
@@ -47,6 +55,8 @@ Griots of sub-Saharan Africa as oral records (p. 35)
 Incan *quipucamayoc*: 'it would not be appropriate to call him an archivist' (p. 59). Created, interpreted and kept the quipus. 
 Real archival practices developed in the abbeys and castles of Europe (p. 67).
 Less of an archival tradition in the UK: 'State concerns about the maintenance of the archives were otherwise limited; records continued to be kept in their place of creation until space forced their storage in dozens of dispersed locations across London' (p. 122)
+
+# More strengths
 
 Treats:
 repository of the Yellow Books in Nanjing during the Ming Dynasty (p. 35)
@@ -62,9 +72,3 @@ Procter's conclusion: motivation for archival management = rights maintained and
 
 Flawless translation
 Bibliography - French language works replaced where possible with English language equivalents. Includes some recent research since 1998 publication. More examples of historical English practice - but French experience still dominates (a good corrective for anglophone privilege)
-
-# Summary of Argument
-# Summary of Contents
-# Strengths
-# Weaknesses
-# Conclusion
