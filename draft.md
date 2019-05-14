@@ -1,14 +1,10 @@
-We are all familiar with the paper deluge of the late 20C, but did you know that in the 18C there was a similar spike in the creation of paper records and that it was caused by the mass uptake of underwear? This gem (p. 75), and many others like it, can be discovered in *A History of Archival Practice*, Margaret Procter's revised and translated version of Paul Delsalle's 1998 classic, *Une histoire de l’archivistique*.
-
-# Summary of Argument
+We are all familiar with the paper deluge of the late 20C, but did you know that in the 18C there was a similar spike in the creation of paper records and that it was caused by the mass uptake of underwear? This gem (p. 75), and many others like it, can be discovered in *A History of Archival Practice*, Margaret Procter's revised and translated edition of Paul Delsalle's 1998 classic, *Une histoire de l’archivistique*.
 
 As its title indicates, this is *A History of Archival Practice*, rather than a history of archives, and it explores the different ways that archival functions have been performed through history and around the world. Delsalle's motivation for writing the book was to address what he saw as an 'identity crisis of the archival profession' (p. x). Some archivists he argued, see themselves as keepers of extant, static collections; others work actively with creating officers to negotiate transfers and then manage those records in custody; while yet others make a distinction between archives and records management (p. xi). Delsalle hoped to settle this argument by delving into the roots of the profession. As Procter puts it in her introduction, the work '[takes] the long view of the value of the archival role' (p. xv).
 
-# Summary of Contents
+It is a long view, indeed. The work begins in the ancient world, moving quickly from cave art to clay tablets. The second chapter explores archival practices in the classical world, from the Greek city states to the Roman Empire. The next two chapters are scoped geographically: Asia and Africa; followed by the Americas. The following six chapters cover developments in Europe from the fifth to eighteenth centuries. These chapters intersperse chronological studies with treatments of particular themes, such as buildings and equipment, methods of arrangement, and the lives of medieaeval archivists. The final seven chapters explore archival practice in the modern age, covering topics such as legislation, the rise of the archives profession, and the development of professional societies and networks. 
 
-It is a long view, indeed. The work begins in the ancient world, moving swiftly from cave art to clay tablets. The second chapter explores archival practices in the classical world, from the Greek city states to the Roman Empire. The next two chapters are scoped geographically: Asia and Africa; followed by the Americas. The following six chapters cover developments in Europe from the fifth to eighteenth centuries. These chapters intersperse chronological studies with treatments of particular themes, such as buildings and equipment, methods of arrangement, and archives professionals. 
-
-The gift.
+The joy in reading this book lies in encountering archival practices that resurface across the millenia, and that resonate with our work today. One constant is the need to protect and guarantee the authenticity of records. Seals were first used for this purpose thousands of years ago, in the days of clay tablets (p. 3). In the mediaeval period, chests with multiple locks were used to regulate access. Delsalle gives numerous examples of these, including a seven lock chest made in 1569 in Burgundy (p. 93). In Ancient Greece the archive - or *archeion* - itself had this function: records of private transactions were desposited into the State repository in order to validate those transactions (in a manner very similar to way we use Torrens Title registration today)  (p. 19). 
 
 Modest
 "provisional, summary account" = rather than a universal account of archival practice
@@ -16,36 +12,14 @@ Proctor: "no chronological overview of archival practice over millenia"; "a fram
 'existing periodicisations of archival practice now show themselves to be far too Eurocentric'. Admits work has a lot of gaps (p. 231)
 Hopes for more sophisticated studies to follow, to become outdated (p. 232)
 Tries to get out of Europe - Asia, Africa and the Americas included.
-The first two chapters cover the Ancient and Classical worlds.  The next 6 chapter
-Begins in the Ancient World. Moves very quickly from cave art to earliest written records (clay tablets)
-5000 clay tablets in king's palace at Ebla 3000 BCE found in original order. Relate to commerce and a small numer of decrees.
-Then classical world: Greece and Rome.
 
-1. The Ancient World
-2. The Classical World: from Greek City States to the Roman Empire
-3. Archives and Archival Practices in Asia and Africa: from Antiquity to the Eighteenth Century
-4. Archives and Archival Practices in the Americas up to the Eighteenth Century
-5. In the Chanceries and Muniment Rooms of Medieval Europe, Fifth to Fifteenth Centuries
-6. Buildings and Equipment in Western Europe: Late Antiquity to the Seventeenth Century
-7. The Defining Era: Simancas, the Habsburgs and the Sixteenth Century
-8. Bureaucracy and Archival Centralisation in Early Modern Europe
-9. Being an Archivist in Early Modern Europe
-10. Methods and Techniques for Classification and Arrangement: Fifteenth to Eighteenth Centuries
-11. Legislation, Literature and Practice in the Nineteenth and Twentieth Centuries
-12. Buildings and Readers, Nineteenth and Twentieth Centuries
-13. Archives Destroyed, Protected and Reconstructed: Nineteenth and Twentieth Centuries
-14. The Rise of a Profession, Nineteenth and Twentieth Centuries
-15. From Mutual Assistance to International Networks, Nineteenth and Twentieth Centuries
-16. Conclusion: the Value of the Historical Perspective
+From a parochial perspective, Records Continuum theory earns a mention, the Australian Series System does not.
 
-# Strengths
 
-Resonances with current recordkeeping issues. The very early use of seals in order to guarantee authenticity (p. 3).
-Greek archeion - State repository used for deposit of private records and this validated those transactions (p. 19).
-Same problems, different era. Republican Rome - complaints of officials keeping records privately and not making public records. Fragile media and forgery (p. 21)
-Chests with multiple locks to regulate access. Such as the 7 lock chest made in 1569 at Beaune in Burgundy (p. 93)
 
 # Weaknesses
+
+Teleological.
 
 No evidence of an archival culture in Egypt - because don't keep records for long term reference (p. 8).
 Romans didn't store records to support future use (p. 21) - this seems to be the benchmark
